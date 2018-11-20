@@ -1,1 +1,1 @@
-# Locker-application-system
+# 오픈소스 수업시간에 팀프로젝트인 사물함 신청 시스템입니다. 
